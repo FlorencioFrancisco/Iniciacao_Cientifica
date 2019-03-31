@@ -1,0 +1,34 @@
+Em curso?	Cancelado	Status		Branca	amarela	parda	negra	raça
+1	0	Em curso		1	0	0	0	branca
+0	1	Cancelado		0	0	1	0	parda
+0	0	Concluido		0	0	0	1	negra
+				0	1	0	0	amarela
+				0	0	0	0	ñ 
+								
+								
+				
+branca	amarela	parda 	negra	Não dispõe infor	
+1	0	0	0	0	branca
+0	1	0	0	0	amarela
+0	0	1	0	0	parda 
+0	0	0	1	0	negra
+0	0	0	0	1	Não dispõe infor
+
+				
+			índice de correlação:					
+			Escola Pública x Nota vestibular					
+			Escola Pública x Média 					
+			Escola Pública x Frequência					
+			Período X Média final					
+			Período X Frequência					
+								
+			Análise descritiva					
+			Porcentagens de :					
+			* Cada raça					
+			* Escola pública e particular					
+			* Turno					
+			* Curso com maior média					
+			* Curso com menor média					
+			* Curso com maior frequência					
+			* Curso com menor frequência					
+
